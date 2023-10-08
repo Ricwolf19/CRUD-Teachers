@@ -35,7 +35,7 @@ The following technologies were used in the development of this project:
 
 To set up this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/CRUD-TEACHERS.git`
+1. Clone the repository: `git clone https://github.com/Ricwolf19/CRUD-TEACHERS.git`
 2. Navigate to the project directory: `cd CRUD-TEACHERS`
 3. Install dependencies: `npm install`
 4. Run the application: `npm start`
